@@ -1,0 +1,16 @@
+﻿body {
+    
+}
+
+.banner {
+    background-image: url(/images/483833.jpg);
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align:right;
+}
+
+nav{
+    
+    
+}
